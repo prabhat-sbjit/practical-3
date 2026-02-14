@@ -16,8 +16,7 @@
         Welcome to <b>La Belle</b>. We serve 
     our best delicious food and foreign cuisine.
         Our goal is to provide the <strong>best quality</strong> meals to our customers.
-    </p>
-    <h2>Our Special Dishes</h2>
+    </p><h2>Our Special Dishes</h2>
     <ul>
         <li>Pasta Carbonara</li>
         <li>Cheese Pizza</li>
@@ -25,23 +24,23 @@
         <li>Tiramisu</li>
     </ul>
     <h2>Today's Combo Offer</h2>
-    <ol>
+    <ul>
         <li>Starter - Tomato Soup, Veg kabab, Chicken Cutlets</li>
         <li>Dessert - Ice Cream,Tiramisu, Gelato, Cassata</li>
         <li>Sauces/Condiments - Pesto alla Genovese, Pecorino Romano</li>
-    </ol>
+    </ul>
     <h2>📜Italian Menu with Prices</h2>
-    <dl>
-        <dt>Margherita Pizza - 10$</dt>
-        <dt>Spaghetti Carbonara - 21$</dt>
-        <dt>Risotto - 24$</dt>
-        <dt>Tiramisu - 25$</dt>
-    </dl>
+    <ol>
+        <li>Margherita Pizza - 10$</li>
+        <li>Spaghetti Carbonara - 21$</li>
+        <li>Risotto - 24$</li>
+        <li>Tiramisu - 25$</li>
+    </ol>
     <h2>📜 Bar Menu with Prices</h2>
-    <dl>
-        <dt>Mojito - 5$/₹250</dt>
-        <dt>Martini - 15$/₹350</dt>
-        <dt>Beer (Pint) - 9$/₹200</dt>
-    </dl>
+    <ol>
+        <li>Mojito - 5$/₹250</li>
+        <li>Martini - 15$/₹350</li>
+        <li>Beer (Pint) - 9$/₹200</li>
+    </ol>
 </body>
 </html>
